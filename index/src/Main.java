@@ -14,6 +14,9 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a = 4, b = 6;
+        int suma = a + b;
+        System.out.println(suma);
         System.out.println("Hola Mundo :D");
         System.out.println("Blackpink in your area");
     }
